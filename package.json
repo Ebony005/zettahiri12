@@ -5,7 +5,7 @@
   "dependencies": {
     "filepond": "^4.3.5",
     "filepond-plugin-image-preview": "^4.0.5",
-    "firebase": "^5.9.2",
+    "firebase": "^10.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-filepond": "^7.0.1",
